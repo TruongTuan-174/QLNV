@@ -1,0 +1,12 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.table thead {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.action-btns button {
+  margin-right: 4px;
+}
